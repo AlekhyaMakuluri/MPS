@@ -19,7 +19,7 @@
   <br>
   <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10902204/"> Paper 10 - 2024 </a> 
   <br>
-  <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10902204"> Paper 11 - 2025 </a> 
+  <a href="https://www.nature.com/articles/s41598-024-84478-x#Abs1"> Paper 11 - 2025 </a> 
   <br>
    <a href="https://www.nature.com/articles/s41598-025-87171-9"> Paper 12 - 2025 </a> 
   <br>
