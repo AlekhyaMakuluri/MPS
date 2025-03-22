@@ -9,4 +9,18 @@
   <br>
 <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9914220/#:~:text=Sambyal%20et%20al.,are%20discussed%20in%20Section%206."> Paper 5 - 2023 </a>
   <br>
-<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10902204/"> Paper 6 - 2024 </a> 
+<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10070897/"> Paper 6 - 2023 </a> 
+<br>
+<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10902204/"> Paper 7 - 2024 </a> 
+  <br>
+  <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10902204/"> Paper 8 - 2024 </a> 
+  <br>
+  <a href="https://www.sciencedirect.com/science/article/pii/S2352914824000017"> Paper 9 - 2024 </a> 
+  <br>
+  <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10902204/"> Paper 10 - 2024 </a> 
+  <br>
+  <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10902204"> Paper 11 - 2025 </a> 
+  <br>
+   <a href="https://www.nature.com/articles/s41598-025-87171-9"> Paper 12 - 2025 </a> 
+  <br>
+  
